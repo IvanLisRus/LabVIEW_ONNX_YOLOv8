@@ -1,6 +1,4 @@
-LabVIEW 2017
-onnxruntime-linux-x64-1.24.3.tgz
-onnxruntime-win-x64-1.24.3.zip
+LabVIEW 2017 + onnxruntime-x64-1.24.3
 
 Tested:
 - Ubuntu 24.04lts - 64bit
